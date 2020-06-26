@@ -22,6 +22,7 @@ Further instructions are enumerated in the "help" instructions (provided below).
 
 ### Note 
 Several sections of the script require hard-coded revision, including:
+
 The subtraction of bad characters frrom the badchars payload in program #4 and the final shell payload in program #6 
 
 ## Help:
