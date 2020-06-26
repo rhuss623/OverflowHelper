@@ -35,6 +35,7 @@ positional arguments:
   port              Remote target port, e.g. 9999
   function          Function used in buffer overflow attempt, e.g. TRUN
   program           Enter a number, 1-6, as argument: 
+  ```
                     
                     1. Fuzzing 
                     2. Identifying Offset 
@@ -66,9 +67,11 @@ positional arguments:
                     Happy Hacking you Hackney Hip-Swaying Hokey Pokers :)
                     
 
+
 optional arguments:
   -h, --help        show this help message and exit
   -pattern PATTERN  Use w/ PROGRAM 2
+
                     
                     Pattern created using pattern-create.rb
                     
@@ -100,3 +103,5 @@ optional arguments:
   -nops NOPS        Use w/ PROGRAM 6
                     
                     Enter number of nops preceding payload, e.g. 32
+                
+  ```
