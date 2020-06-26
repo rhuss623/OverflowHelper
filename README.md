@@ -1,5 +1,5 @@
 # OverflowHelper
-OverflowHelper aids in Buffer Overflow development on Windows x86 architecture. This script was tested on vulnserver on 32-bit a Windows 7 machine.
+OverflowHelper aids in buffer overflow development on Windows x86 architecture. This script was tested on vulnserver on 32-bit a Windows 7 machine.
 
 ## Usage:
 
